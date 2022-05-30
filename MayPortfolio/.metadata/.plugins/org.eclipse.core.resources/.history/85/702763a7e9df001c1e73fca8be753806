@@ -1,0 +1,6 @@
+@charset "ISO-8859-1";
+
+.dropdown {
+  display: inline-block;
+  position: relative;
+}

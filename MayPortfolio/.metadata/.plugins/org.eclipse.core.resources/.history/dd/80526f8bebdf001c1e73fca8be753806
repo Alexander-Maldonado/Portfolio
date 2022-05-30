@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+*{
+	height:"600px";
+	margin:"0px";
+	padding:"0px";
+}
+
+.header{
+	margin:"5px";
+}

@@ -1,0 +1,5 @@
+package com.java.firstPortfolio.repositories;
+
+public class ContactRepository {
+
+}

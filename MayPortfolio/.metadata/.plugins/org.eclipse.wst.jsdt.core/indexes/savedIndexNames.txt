@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\ALEX_\OneDrive\Desktop\Portfolio\MayPortfolio\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2267183741.index
+3137632022.index
+2980358868.index
+1477886937.index
+1951883825.index
+353552105.index
+4136443354.index

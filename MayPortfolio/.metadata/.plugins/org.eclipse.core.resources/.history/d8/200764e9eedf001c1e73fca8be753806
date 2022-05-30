@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.header{
+	margin:20px 40px;
+	display:flex;
+	justify-content: space-between;
+}
+
+.dropdown {
+  display: inline-block;
+  position: relative;
+}
+
+.dropdown:hover .content {
+  display: block;
+}
+
+.content a {
+  display: block;
+  color: #000000;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.content a:hover {
+  color: #FFFFFF;
+  background-color: #00A4BD;
+}
+
+.content {
+display: none;
+position: absolute;
+overflow: auto;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.contact{
+	display:flex;
+	justify-content:center;
+	height:800px;
+}
+
+table{
+	margin:20px;
+}
