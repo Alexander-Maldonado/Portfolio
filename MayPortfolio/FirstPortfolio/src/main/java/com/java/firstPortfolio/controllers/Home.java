@@ -39,5 +39,10 @@ public class Home {
 		cService.create(contact);
 		return "redirect:/";
 	}
+	
+	@GetMapping("/about")
+	public String about() {
+		return "aboutme.jsp";
+	}
 
 }
